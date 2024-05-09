@@ -1,5 +1,5 @@
 # Bruno Guerreiro ⚔️💻
-**Desenvolvedor Mobile & Front-End, 31 anos, morando em São Paulo.**
+**Desenvolvedor Mobile & Front-End, 33 anos, morando em São Paulo.**
 
  Vencedor duas vezes consecutivas em hackatons/desafios promovidos na Campus Party Brasília: em 2018 com o desenvolvimento do aplicativo "Visite o Congresso Nacional" promovido pelo Senado Federal, e em 2019 com a solução "ISBN Unicod-i" promovido pela Capes/RNP/Governo Federal.
 
@@ -7,7 +7,7 @@ Acredito no poder da tecnologia para facilitar o dia-a-dia das pessoas e das emp
 
 
 ## 🗺 Contribuições
-Adoro compartilhar conteúdo e participar da comunidade de tecnologia. Você pode encontrar  [artigos no CSS3.com.br](http://loiane.com/) ou me acompanhar nas redes sociais.
+Adoro compartilhar conteúdo e participar da comunidade de tecnologia. Você pode encontrar  [artigos no CSS3.com.br](http://css3.com.br/) ou me acompanhar nas redes sociais.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bruno_gc?style=social)](https://twitter.com/bruno_gc)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/brunoguerreiro/)
